@@ -1,3 +1,5 @@
 language = "python3"
 type = "algorithm"
 maindir = "unit/main.py"
+fullpath = "SAMPLe_algorithm/Python3"
+fullmainpath = "SAMPLe_algorithm/Python3/unit/main.py"
