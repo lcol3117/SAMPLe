@@ -1,0 +1,3 @@
+language = "python3"
+type = "algorithm"
+maindir = "unit/main.py"
